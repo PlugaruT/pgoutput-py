@@ -173,7 +173,7 @@ class FiniteConsumer:
 
 # if __name__ == "__main__":
 #     connection = psycopg2.connect(
-#         "host=localhost port=6432 user=gorgias password=gorgias",
+#         "host=localhost port=6432 user=test password=test",
 #         connection_factory=psycopg2.extras.LogicalReplicationConnection,
 #     )
 #     cursor = connection.cursor()
